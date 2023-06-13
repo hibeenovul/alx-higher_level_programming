@@ -2,6 +2,7 @@
 """ This module adds all arguments to a Python list, and then
 save them to a file
 """
+
 import sys
 from typing import List
 from os import path
